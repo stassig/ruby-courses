@@ -1,0 +1,1 @@
+This repository contains projects based on the following tutorials: [foodlog](https://www.youtube.com/watch?v=B3Fbujmgo60), [blog](https://guides.rubyonrails.org/getting_started.html), and [scheduled-tweets](https://gorails.com/series/rails-6-for-beginners).
